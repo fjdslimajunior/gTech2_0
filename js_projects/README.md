@@ -1,7 +1,7 @@
 # Roteiro
 
 
-- instala;'ao do node JS.
+- instalação do node JS.
 -  Conhecendo [NPM](https://www.npmjs.com/)
 
 ## Inicialize o package.json  usando terminal
@@ -23,7 +23,7 @@
 ## Criação de uma api (api.json)
 - criar um aquivo com extensão .json (exemplo: api.json)
 
-### Extrutura base
+### Estrutura base
 ```
 > 
 {
