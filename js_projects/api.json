@@ -1,0 +1,20 @@
+{
+    "tarefas": [
+        {
+            "id": 1,
+            "name": "Francisco José da Silva Lima Junior"
+        }
+    ],
+    "categorias": [
+        {
+            "referencias": "veio de londres",
+            "charges": "class 1 - charge"
+        }
+    ],
+    "users-list": [
+        {
+            "id": "1",
+            "campo de atuação": "trabalha na praia"
+        }
+    ]
+}
