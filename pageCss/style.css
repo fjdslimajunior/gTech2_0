@@ -1,7 +1,13 @@
+/*fotns*/
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 body {
     padding: 0%;
     border: 0;
     margin: 0;
+    font-family: "Roboto", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
 
 #container {
@@ -94,7 +100,7 @@ section {
     color: #890783;
 }
 
-.equipe-contente,
+.equipe-content,
 h2 {
     text-align: center;
     margin: 0;
@@ -103,6 +109,10 @@ h2 {
     color: #890783;
 }
 
+/* 
+.equipe-content {
+    display: flex;
+} */
 
 
 .footer-content {
@@ -116,3 +126,15 @@ h2 {
 .direitos-reservados {
     color: #ffffff;
 }
+
+/* #team-1 {
+    order: 1;
+}
+
+#team-2 {
+    order: 2;
+}
+
+#team-3 {
+    order: 3;
+} */

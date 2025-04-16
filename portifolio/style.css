@@ -36,3 +36,18 @@ img {
     width: 25%;
     height: 25%;
 } */
+
+
+.lsita {
+    border-radius: 2em;
+    border: 2em;
+    margin: 0;
+    padding: 0;
+}
+
+.lista,
+ul,
+li:hover {
+    list-style-type: none;
+    align-items: left;
+}
