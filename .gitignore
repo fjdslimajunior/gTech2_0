@@ -1,3 +1,8 @@
 /js_projects/node_modules
 /tests_applications
 *.txt
+/react-vite/node_modules
+/react-vite/public
+/react-vite/src/assets
+
+
